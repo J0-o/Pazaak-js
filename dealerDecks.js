@@ -1,7 +1,7 @@
 // ============================================================
-// KOTOR II – Dealer Deck Presets for Pazaak AI
+// KOTOR II – Dealer Deck Presets
 // ============================================================
-// Each entry corresponds to the canonical 10-card side deck
+// Each entry corresponds to the 10-card side deck
 // used by the in-game Pazaak dealers in KOTOR II
 // (based on Kotor2_Deck_*.2da definitions).
 //
