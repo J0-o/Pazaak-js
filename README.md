@@ -1,4 +1,4 @@
-# Pazaak HTML5
+# Pazaak Javascript
 Pazaak card game, from Knights of the Old Republic, written in html5.
 
 ## Todo
